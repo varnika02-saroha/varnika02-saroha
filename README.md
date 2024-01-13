@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @varnika02-saroha
 - 🌱 I’m currently pursuing B.TECH(CSE)
 - 💞️ I’m looking to collaborate on some interactive ML and web development projects
-- 📫 How to reach me ...
+- 📫linkedin:- www.linkedin.com/in/varnika-saroha-b00b59228
 - 😄 Pronouns: she/her...
 
 <!---
